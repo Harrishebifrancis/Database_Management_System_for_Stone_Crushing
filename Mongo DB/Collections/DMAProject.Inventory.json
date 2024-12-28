@@ -1,0 +1,180 @@
+[{
+  "_id": {
+    "$oid": "67464e549702a9cd8601307b"
+  },
+  "InventoryId": "15 io",
+  "Address": "9324 Johnston Divide",
+  "Type": "Rental",
+  "LastUpdated": "2019-12-02"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd8601307c"
+  },
+  "InventoryId": "18 dl",
+  "Address": "0864 Braeden Branch Apt. 055",
+  "Type": "Rental",
+  "LastUpdated": "2024-08-12"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd8601307d"
+  },
+  "InventoryId": "18 fq",
+  "Address": "04449 Gerhold Drive",
+  "Type": "Leased",
+  "LastUpdated": "2020-01-08"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd8601307e"
+  },
+  "InventoryId": "22 qi",
+  "Address": "06485 Iva Village",
+  "Type": "Leased",
+  "LastUpdated": "2023-05-27"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd8601307f"
+  },
+  "InventoryId": "29 eq",
+  "Address": "7047 Nolan Village",
+  "Type": "Owned",
+  "LastUpdated": "2020-04-16"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd86013080"
+  },
+  "InventoryId": "37 cm",
+  "Address": "914 Shanahan Station",
+  "Type": "Leased",
+  "LastUpdated": "2020-11-19"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd86013081"
+  },
+  "InventoryId": "37 mv",
+  "Address": "3418 Haag Street",
+  "Type": "Leased",
+  "LastUpdated": "2023-11-07"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd86013082"
+  },
+  "InventoryId": "38 wo",
+  "Address": "1491 Bobbie Island Apt. 724",
+  "Type": "Owned",
+  "LastUpdated": "2023-10-19"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd86013083"
+  },
+  "InventoryId": "39 wi",
+  "Address": "5753 Koch Courts Suite 911",
+  "Type": "Rental",
+  "LastUpdated": "2022-05-12"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd86013084"
+  },
+  "InventoryId": "41 ft",
+  "Address": "67396 Nettie Knolls Apt. 701",
+  "Type": "Owned",
+  "LastUpdated": "2021-06-01"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd86013085"
+  },
+  "InventoryId": "50 zs",
+  "Address": "17262 Paucek Isle Apt. 182",
+  "Type": "Leased",
+  "LastUpdated": "2023-03-11"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd86013086"
+  },
+  "InventoryId": "55 ye",
+  "Address": "7743 Catharine Road",
+  "Type": "Rental",
+  "LastUpdated": "2022-02-25"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd86013087"
+  },
+  "InventoryId": "56 wb",
+  "Address": "162 Dalton Square Suite 427",
+  "Type": "Rental",
+  "LastUpdated": "2023-11-28"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd86013088"
+  },
+  "InventoryId": "58 rt",
+  "Address": "57194 Jakubowski Mount Apt. 623",
+  "Type": "Leased",
+  "LastUpdated": "2023-08-09"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd86013089"
+  },
+  "InventoryId": "72 vh",
+  "Address": "424 Gerhold Flats",
+  "Type": "Leased",
+  "LastUpdated": "2020-07-22"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd8601308a"
+  },
+  "InventoryId": "90 gi",
+  "Address": "6491 Zieme Walks",
+  "Type": "Rental",
+  "LastUpdated": "2020-12-31"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd8601308b"
+  },
+  "InventoryId": "92 ja",
+  "Address": "1695 Lebsack Island",
+  "Type": "Owned",
+  "LastUpdated": "2024-03-29"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd8601308c"
+  },
+  "InventoryId": "95 gn",
+  "Address": "2243 Mikel Pines Apt. 687",
+  "Type": "Rental",
+  "LastUpdated": "2020-04-26"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd8601308d"
+  },
+  "InventoryId": "97 wu",
+  "Address": "8351 Ebert Vista Suite 174",
+  "Type": "Leased",
+  "LastUpdated": "2024-10-08"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd8601308e"
+  },
+  "InventoryId": "99 oh",
+  "Address": "4880 Magnolia Flat",
+  "Type": "Owned",
+  "LastUpdated": "2022-06-05"
+}]

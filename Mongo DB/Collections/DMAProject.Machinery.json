@@ -1,0 +1,180 @@
+[{
+  "_id": {
+    "$oid": "67464e549702a9cd8601318e"
+  },
+  "MachineryID": 10,
+  "Type": "Vibro",
+  "PurchaseDate": "2020-08-03",
+  "InsuranceID": 92,
+  "Employee_Incharge": 9929
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd8601318f"
+  },
+  "MachineryID": 11,
+  "Type": "Cone Crusher",
+  "PurchaseDate": "2023-10-21",
+  "InsuranceID": 73,
+  "Employee_Incharge": 4479
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd86013190"
+  },
+  "MachineryID": 12,
+  "Type": "Impact crushers",
+  "PurchaseDate": "2023-03-26",
+  "InsuranceID": 81,
+  "Employee_Incharge": 6651
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd86013191"
+  },
+  "MachineryID": 28,
+  "Type": "Vibro",
+  "PurchaseDate": "2024-02-11",
+  "InsuranceID": 98,
+  "Employee_Incharge": 4479
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd86013192"
+  },
+  "MachineryID": 31,
+  "Type": "VSI crushers",
+  "PurchaseDate": "2020-08-07",
+  "InsuranceID": 72,
+  "Employee_Incharge": 9659
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd86013193"
+  },
+  "MachineryID": 34,
+  "Type": "VSI crushers",
+  "PurchaseDate": "2023-08-30",
+  "InsuranceID": 75,
+  "Employee_Incharge": 6308
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd86013194"
+  },
+  "MachineryID": 41,
+  "Type": "Impact crushers",
+  "PurchaseDate": "2024-09-11",
+  "InsuranceID": 67,
+  "Employee_Incharge": 9223
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd86013195"
+  },
+  "MachineryID": 42,
+  "Type": "Classifier",
+  "PurchaseDate": "2024-08-09",
+  "InsuranceID": 74,
+  "Employee_Incharge": 6291
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd86013196"
+  },
+  "MachineryID": 48,
+  "Type": "VSI crushers",
+  "PurchaseDate": "2023-02-17",
+  "InsuranceID": 95,
+  "Employee_Incharge": 3484
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd86013197"
+  },
+  "MachineryID": 52,
+  "Type": "Impact crushers",
+  "PurchaseDate": "2022-06-14",
+  "InsuranceID": 91,
+  "Employee_Incharge": 9929
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd86013198"
+  },
+  "MachineryID": 55,
+  "Type": "Classifier",
+  "PurchaseDate": "2020-03-10",
+  "InsuranceID": 99,
+  "Employee_Incharge": 1208
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd86013199"
+  },
+  "MachineryID": 66,
+  "Type": "VSI crushers",
+  "PurchaseDate": "2021-03-15",
+  "InsuranceID": 84,
+  "Employee_Incharge": 8507
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd8601319a"
+  },
+  "MachineryID": 67,
+  "Type": "Jaw crushers",
+  "PurchaseDate": "2022-12-01",
+  "InsuranceID": 76,
+  "Employee_Incharge": 3484
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd8601319b"
+  },
+  "MachineryID": 68,
+  "Type": "Impact crushers",
+  "PurchaseDate": "2021-02-13",
+  "InsuranceID": 90,
+  "Employee_Incharge": 9571
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd8601319c"
+  },
+  "MachineryID": 70,
+  "Type": "Jaw crushers",
+  "PurchaseDate": "2023-12-25",
+  "InsuranceID": 69,
+  "Employee_Incharge": 9876
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd8601319d"
+  },
+  "MachineryID": 83,
+  "Type": "Washer",
+  "PurchaseDate": "2023-07-16",
+  "InsuranceID": 55,
+  "Employee_Incharge": 4816
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd8601319e"
+  },
+  "MachineryID": 87,
+  "Type": "Impact crushers",
+  "PurchaseDate": "2021-04-16",
+  "InsuranceID": 97,
+  "Employee_Incharge": 4479
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd8601319f"
+  },
+  "MachineryID": 89,
+  "Type": "Washer",
+  "PurchaseDate": "2022-09-24",
+  "InsuranceID": 56,
+  "Employee_Incharge": 5506
+}]

@@ -1,0 +1,25 @@
+{
+  "type": "Compass Connections",
+  "version": {
+    "$numberInt": "1"
+  },
+  "connections": [
+    {
+      "id": "90c340f4-8e42-4429-94f2-d17cef0fb52d",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1733350757747"
+        }
+      },
+      "favorite": {
+        "name": "DMAProject",
+        "color": "color1"
+      },
+      "savedConnectionType": "recent",
+      "connectionOptions": {
+        "connectionString": "mongodb://localhost:27017/",
+        "oidc": {}
+      }
+    }
+  ]
+}

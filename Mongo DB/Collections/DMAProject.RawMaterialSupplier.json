@@ -1,0 +1,117 @@
+[{
+  "_id": {
+    "$oid": "67464e549702a9cd86013007"
+  },
+  "SupplierID": 111,
+  "Name": "NC Suppliers",
+  "Product": "Sand",
+  "Cost": 45.9
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd86013008"
+  },
+  "SupplierID": 204,
+  "Name": "RBM",
+  "Product": "Boulders",
+  "Cost": 41.9
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd86013009"
+  },
+  "SupplierID": 213,
+  "Name": "Kevin Enterprices",
+  "Product": "Boulders",
+  "Cost": 38.9
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd8601300a"
+  },
+  "SupplierID": 245,
+  "Name": "Josuhva Solutions",
+  "Product": "Aggreate",
+  "Cost": 12.2
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd8601300b"
+  },
+  "SupplierID": 324,
+  "Name": "Hay Aggreate",
+  "Product": "Aggreate",
+  "Cost": 45.2
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd8601300c"
+  },
+  "SupplierID": 389,
+  "Name": "HaPa Solutions",
+  "Product": "Aggreate",
+  "Cost": 52.2
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd8601300d"
+  },
+  "SupplierID": 452,
+  "Name": "Chirs Tech",
+  "Product": "Aggreate",
+  "Cost": 50.2
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd8601300e"
+  },
+  "SupplierID": 652,
+  "Name": "HSPC",
+  "Product": "Aggreate",
+  "Cost": 47.2
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd8601300f"
+  },
+  "SupplierID": 666,
+  "Name": "Rayan Enterprices",
+  "Product": "Sand",
+  "Cost": 45.7
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd86013010"
+  },
+  "SupplierID": 878,
+  "Name": "Amber Tech",
+  "Product": "Boulders",
+  "Cost": 45.9
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd86013011"
+  },
+  "SupplierID": 903,
+  "Name": "Ebi & Co",
+  "Product": "Rock blocks",
+  "Cost": 53.6
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd86013012"
+  },
+  "SupplierID": 923,
+  "Name": "RaNa Enterprices",
+  "Product": "Sand",
+  "Cost": 38.7
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd86013013"
+  },
+  "SupplierID": 934,
+  "Name": "Optimum Tech",
+  "Product": "Aggreate",
+  "Cost": 70.2
+}]

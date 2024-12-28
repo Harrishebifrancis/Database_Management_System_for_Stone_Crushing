@@ -1,0 +1,550 @@
+[{
+  "_id": {
+    "$oid": "67464e549702a9cd86013014"
+  },
+  "EmployeeID": 1019,
+  "Name": "Monserrate",
+  "Gender": "Male",
+  "DOB": "2005-01-07",
+  "PhoneNo": "1035051233",
+  "SkillType": "Unskilled"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd86013015"
+  },
+  "EmployeeID": 1208,
+  "Name": "Orin",
+  "Gender": "Female",
+  "DOB": "1998-05-14",
+  "PhoneNo": "3659173895",
+  "SkillType": "Unskilled"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd86013016"
+  },
+  "EmployeeID": 1615,
+  "Name": "Tyra",
+  "Gender": "Other",
+  "DOB": "2019-10-26",
+  "PhoneNo": "5781517476",
+  "SkillType": "Unskilled"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd86013017"
+  },
+  "EmployeeID": 1816,
+  "Name": "Helena",
+  "Gender": "Male",
+  "DOB": "2014-12-07",
+  "PhoneNo": "4757839668",
+  "SkillType": "Unskilled"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd86013018"
+  },
+  "EmployeeID": 2228,
+  "Name": "Nash",
+  "Gender": "Male",
+  "DOB": "1996-05-14",
+  "PhoneNo": "1775598246",
+  "SkillType": "Skilled"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd86013019"
+  },
+  "EmployeeID": 2350,
+  "Name": "Daisha",
+  "Gender": "Other",
+  "DOB": "1999-08-08",
+  "PhoneNo": "6533750902",
+  "SkillType": "Skilled"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd8601301a"
+  },
+  "EmployeeID": 2858,
+  "Name": "Tyler",
+  "Gender": "Other",
+  "DOB": "1981-02-18",
+  "PhoneNo": "4083487195",
+  "SkillType": "Unskilled"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd8601301b"
+  },
+  "EmployeeID": 3484,
+  "Name": "Retha",
+  "Gender": "Other",
+  "DOB": "2007-03-09",
+  "PhoneNo": "2233030562",
+  "SkillType": "Skilled"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd8601301c"
+  },
+  "EmployeeID": 3490,
+  "Name": "Anjali",
+  "Gender": "Male",
+  "DOB": "1998-08-07",
+  "PhoneNo": "1090524820",
+  "SkillType": "Skilled"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd8601301d"
+  },
+  "EmployeeID": 3579,
+  "Name": "Ashtyn",
+  "Gender": "Other",
+  "DOB": "2016-09-23",
+  "PhoneNo": "2117241691",
+  "SkillType": "Unskilled"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd8601301e"
+  },
+  "EmployeeID": 3895,
+  "Name": "Santino",
+  "Gender": "Female",
+  "DOB": "1982-07-04",
+  "PhoneNo": "8569418430",
+  "SkillType": "Skilled"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd8601301f"
+  },
+  "EmployeeID": 3926,
+  "Name": "Garry",
+  "Gender": "Male",
+  "DOB": "2005-05-23",
+  "PhoneNo": "1405223911",
+  "SkillType": "Unskilled"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd86013020"
+  },
+  "EmployeeID": 4079,
+  "Name": "Virgil",
+  "Gender": "Female",
+  "DOB": "1978-08-15",
+  "PhoneNo": "9612861700",
+  "SkillType": "Unskilled"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd86013021"
+  },
+  "EmployeeID": 4355,
+  "Name": "Tiana",
+  "Gender": "Other",
+  "DOB": "2004-02-11",
+  "PhoneNo": "3331831856",
+  "SkillType": "Unskilled"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd86013022"
+  },
+  "EmployeeID": 4456,
+  "Name": "Harold",
+  "Gender": "Female",
+  "DOB": "2014-12-06",
+  "PhoneNo": "3055496609",
+  "SkillType": "Skilled"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd86013023"
+  },
+  "EmployeeID": 4460,
+  "Name": "Hipolito",
+  "Gender": "Male",
+  "DOB": "2019-10-26",
+  "PhoneNo": "9013696521",
+  "SkillType": "Skilled"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd86013024"
+  },
+  "EmployeeID": 4479,
+  "Name": "Sabryna",
+  "Gender": "Male",
+  "DOB": "2018-12-23",
+  "PhoneNo": "6018481067",
+  "SkillType": "Skilled"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd86013025"
+  },
+  "EmployeeID": 4495,
+  "Name": "Hester",
+  "Gender": "Other",
+  "DOB": "2022-11-05",
+  "PhoneNo": "6072460642",
+  "SkillType": "Skilled"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd86013026"
+  },
+  "EmployeeID": 4549,
+  "Name": "Muhammad",
+  "Gender": "Other",
+  "DOB": "1992-04-28",
+  "PhoneNo": "2487241818",
+  "SkillType": "Skilled"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd86013027"
+  },
+  "EmployeeID": 4586,
+  "Name": "Eden",
+  "Gender": "Female",
+  "DOB": "1972-08-12",
+  "PhoneNo": "9483993622",
+  "SkillType": "Skilled"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd86013028"
+  },
+  "EmployeeID": 4816,
+  "Name": "Willard",
+  "Gender": "Other",
+  "DOB": "1983-12-07",
+  "PhoneNo": "2038295111",
+  "SkillType": "Skilled"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd86013029"
+  },
+  "EmployeeID": 4842,
+  "Name": "Cecil",
+  "Gender": "Male",
+  "DOB": "2013-08-19",
+  "PhoneNo": "5088370370",
+  "SkillType": "Unskilled"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd8601302a"
+  },
+  "EmployeeID": 5206,
+  "Name": "Cristina",
+  "Gender": "Female",
+  "DOB": "1974-12-11",
+  "PhoneNo": "3349448186",
+  "SkillType": "Unskilled"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd8601302b"
+  },
+  "EmployeeID": 5284,
+  "Name": "Corine",
+  "Gender": "Female",
+  "DOB": "2006-07-02",
+  "PhoneNo": "3901520020",
+  "SkillType": "Skilled"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd8601302c"
+  },
+  "EmployeeID": 5424,
+  "Name": "Ayden",
+  "Gender": "Male",
+  "DOB": "2013-03-02",
+  "PhoneNo": "9761841736",
+  "SkillType": "Skilled"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd8601302d"
+  },
+  "EmployeeID": 5506,
+  "Name": "Conor",
+  "Gender": "Other",
+  "DOB": "2010-01-22",
+  "PhoneNo": "7260415452",
+  "SkillType": "Unskilled"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd8601302e"
+  },
+  "EmployeeID": 6291,
+  "Name": "Frankie",
+  "Gender": "Female",
+  "DOB": "1986-04-07",
+  "PhoneNo": "5802713392",
+  "SkillType": "Skilled"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd8601302f"
+  },
+  "EmployeeID": 6308,
+  "Name": "Jordyn",
+  "Gender": "Female",
+  "DOB": "2015-11-18",
+  "PhoneNo": "4363417223",
+  "SkillType": "Skilled"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd86013030"
+  },
+  "EmployeeID": 6651,
+  "Name": "Erica",
+  "Gender": "Female",
+  "DOB": "1987-06-25",
+  "PhoneNo": "5733690385",
+  "SkillType": "Skilled"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd86013031"
+  },
+  "EmployeeID": 6937,
+  "Name": "Abner",
+  "Gender": "Male",
+  "DOB": "1993-01-06",
+  "PhoneNo": "3715132980",
+  "SkillType": "Skilled"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd86013032"
+  },
+  "EmployeeID": 7136,
+  "Name": "Lyda",
+  "Gender": "Female",
+  "DOB": "1998-09-04",
+  "PhoneNo": "1016552420",
+  "SkillType": "Unskilled"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd86013033"
+  },
+  "EmployeeID": 7207,
+  "Name": "Chanelle",
+  "Gender": "Other",
+  "DOB": "2023-05-13",
+  "PhoneNo": "6001226292",
+  "SkillType": "Skilled"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd86013034"
+  },
+  "EmployeeID": 7229,
+  "Name": "Hanna",
+  "Gender": "Other",
+  "DOB": "1991-01-13",
+  "PhoneNo": "5234564174",
+  "SkillType": "Unskilled"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd86013035"
+  },
+  "EmployeeID": 7251,
+  "Name": "Albert",
+  "Gender": "Male",
+  "DOB": "2008-02-02",
+  "PhoneNo": "2356685732",
+  "SkillType": "Skilled"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd86013036"
+  },
+  "EmployeeID": 7274,
+  "Name": "Agustin",
+  "Gender": "Female",
+  "DOB": "1991-03-13",
+  "PhoneNo": "6394132167",
+  "SkillType": "Unskilled"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd86013037"
+  },
+  "EmployeeID": 7626,
+  "Name": "Madelyn",
+  "Gender": "Female",
+  "DOB": "1994-07-26",
+  "PhoneNo": "9259484406",
+  "SkillType": "Unskilled"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd86013038"
+  },
+  "EmployeeID": 7720,
+  "Name": "Imelda",
+  "Gender": "Other",
+  "DOB": "1997-11-26",
+  "PhoneNo": "4373987514",
+  "SkillType": "Unskilled"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd86013039"
+  },
+  "EmployeeID": 7887,
+  "Name": "Kurt",
+  "Gender": "Female",
+  "DOB": "2011-12-15",
+  "PhoneNo": "5445120276",
+  "SkillType": "Skilled"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd8601303a"
+  },
+  "EmployeeID": 7987,
+  "Name": "Addison",
+  "Gender": "Male",
+  "DOB": "1974-12-19",
+  "PhoneNo": "2937484129",
+  "SkillType": "Skilled"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd8601303b"
+  },
+  "EmployeeID": 8035,
+  "Name": "Allen",
+  "Gender": "Other",
+  "DOB": "1992-08-25",
+  "PhoneNo": "1969551248",
+  "SkillType": "Unskilled"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd8601303c"
+  },
+  "EmployeeID": 8061,
+  "Name": "Torey",
+  "Gender": "Other",
+  "DOB": "1986-10-17",
+  "PhoneNo": "4998772678",
+  "SkillType": "Skilled"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd8601303d"
+  },
+  "EmployeeID": 8507,
+  "Name": "Antonette",
+  "Gender": "Male",
+  "DOB": "1976-08-25",
+  "PhoneNo": "6667175234",
+  "SkillType": "Unskilled"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd8601303e"
+  },
+  "EmployeeID": 8831,
+  "Name": "Phoebe",
+  "Gender": "Male",
+  "DOB": "2012-06-10",
+  "PhoneNo": "9470093400",
+  "SkillType": "Unskilled"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd8601303f"
+  },
+  "EmployeeID": 9223,
+  "Name": "Jay",
+  "Gender": "Male",
+  "DOB": "1977-02-06",
+  "PhoneNo": "8927924683",
+  "SkillType": "Unskilled"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd86013040"
+  },
+  "EmployeeID": 9245,
+  "Name": "Alexandrea",
+  "Gender": "Female",
+  "DOB": "2010-02-06",
+  "PhoneNo": "5136672599",
+  "SkillType": "Skilled"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd86013041"
+  },
+  "EmployeeID": 9409,
+  "Name": "Dorian",
+  "Gender": "Female",
+  "DOB": "1993-03-28",
+  "PhoneNo": "6804301806",
+  "SkillType": "Unskilled"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd86013042"
+  },
+  "EmployeeID": 9571,
+  "Name": "Ila",
+  "Gender": "Female",
+  "DOB": "2000-07-29",
+  "PhoneNo": "6683967835",
+  "SkillType": "Skilled"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd86013043"
+  },
+  "EmployeeID": 9659,
+  "Name": "Wilhelm",
+  "Gender": "Female",
+  "DOB": "2005-07-23",
+  "PhoneNo": "5007432452",
+  "SkillType": "Unskilled"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd86013044"
+  },
+  "EmployeeID": 9876,
+  "Name": "Dewitt",
+  "Gender": "Female",
+  "DOB": "1975-04-15",
+  "PhoneNo": "1313584197",
+  "SkillType": "Skilled"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd86013045"
+  },
+  "EmployeeID": 9929,
+  "Name": "Jackie",
+  "Gender": "Male",
+  "DOB": "2019-11-24",
+  "PhoneNo": "5960500439",
+  "SkillType": "Unskilled"
+}]

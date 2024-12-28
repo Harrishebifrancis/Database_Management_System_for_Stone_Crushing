@@ -1,0 +1,250 @@
+[{
+  "_id": {
+    "$oid": "67464e549702a9cd860130f3"
+  },
+  "VehicleID": 11,
+  "Type": "Hydraulic mining shovels",
+  "PurchaseDate": "2024-07-04",
+  "InsuranceID": 72,
+  "Employee_Incharge": 4842
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd860130f4"
+  },
+  "VehicleID": 16,
+  "Type": "Wheel loaders",
+  "PurchaseDate": "2022-05-14",
+  "InsuranceID": 76,
+  "Employee_Incharge": 4079
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd860130f5"
+  },
+  "VehicleID": 26,
+  "Type": "Wheel loaders",
+  "PurchaseDate": "2022-06-18",
+  "InsuranceID": 56,
+  "Employee_Incharge": 8831
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd860130f6"
+  },
+  "VehicleID": 31,
+  "Type": "Hydraulic mining shovels",
+  "PurchaseDate": "2024-10-14",
+  "InsuranceID": 99,
+  "Employee_Incharge": 1208
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd860130f7"
+  },
+  "VehicleID": 39,
+  "Type": "Dump trucks",
+  "PurchaseDate": "2022-09-24",
+  "InsuranceID": 74,
+  "Employee_Incharge": 7207
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd860130f8"
+  },
+  "VehicleID": 40,
+  "Type": "Wheel loaders",
+  "PurchaseDate": "2024-03-21",
+  "InsuranceID": 84,
+  "Employee_Incharge": 7207
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd860130f9"
+  },
+  "VehicleID": 52,
+  "Type": "Wheel loaders",
+  "PurchaseDate": "2024-06-11",
+  "InsuranceID": 69,
+  "Employee_Incharge": 5424
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd860130fa"
+  },
+  "VehicleID": 53,
+  "Type": "Draglines",
+  "PurchaseDate": "2023-08-25",
+  "InsuranceID": 90,
+  "Employee_Incharge": 1816
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd860130fb"
+  },
+  "VehicleID": 56,
+  "Type": "Wheel loaders",
+  "PurchaseDate": "2021-07-09",
+  "InsuranceID": 95,
+  "Employee_Incharge": 5506
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd860130fc"
+  },
+  "VehicleID": 57,
+  "Type": "Draglines",
+  "PurchaseDate": "2020-05-07",
+  "InsuranceID": 75,
+  "Employee_Incharge": 6651
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd860130fd"
+  },
+  "VehicleID": 58,
+  "Type": "Hydraulic mining shovels",
+  "PurchaseDate": "2024-06-15",
+  "InsuranceID": 64,
+  "Employee_Incharge": 7229
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd860130fe"
+  },
+  "VehicleID": 61,
+  "Type": "Excavators",
+  "PurchaseDate": "2020-06-12",
+  "InsuranceID": 81,
+  "Employee_Incharge": 2228
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd860130ff"
+  },
+  "VehicleID": 62,
+  "Type": "Dump trucks",
+  "PurchaseDate": "2020-04-26",
+  "InsuranceID": 98,
+  "Employee_Incharge": 1816
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd86013100"
+  },
+  "VehicleID": 66,
+  "Type": "Wheel loaders",
+  "PurchaseDate": "2023-01-18",
+  "InsuranceID": 92,
+  "Employee_Incharge": 1615
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd86013101"
+  },
+  "VehicleID": 67,
+  "Type": "Excavators",
+  "PurchaseDate": "2022-09-01",
+  "InsuranceID": 67,
+  "Employee_Incharge": 3490
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd86013102"
+  },
+  "VehicleID": 72,
+  "Type": "Hydraulic mining shovels",
+  "PurchaseDate": "2023-04-11",
+  "InsuranceID": 91,
+  "Employee_Incharge": 7887
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd86013103"
+  },
+  "VehicleID": 76,
+  "Type": "Excavators",
+  "PurchaseDate": "2020-06-19",
+  "InsuranceID": 69,
+  "Employee_Incharge": 8061
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd86013104"
+  },
+  "VehicleID": 77,
+  "Type": "Excavators",
+  "PurchaseDate": "2021-02-25",
+  "InsuranceID": 67,
+  "Employee_Incharge": 5506
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd86013105"
+  },
+  "VehicleID": 78,
+  "Type": "Bulldozers",
+  "PurchaseDate": "2021-04-09",
+  "InsuranceID": 55,
+  "Employee_Incharge": 7136
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd86013106"
+  },
+  "VehicleID": 79,
+  "Type": "Hydraulic mining shovels",
+  "PurchaseDate": "2024-03-06",
+  "InsuranceID": 56,
+  "Employee_Incharge": 1816
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd86013107"
+  },
+  "VehicleID": 81,
+  "Type": "Bulldozers",
+  "PurchaseDate": "2023-06-13",
+  "InsuranceID": 77,
+  "Employee_Incharge": 3926
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd86013108"
+  },
+  "VehicleID": 83,
+  "Type": "Excavators",
+  "PurchaseDate": "2022-02-27",
+  "InsuranceID": 64,
+  "Employee_Incharge": 7251
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd86013109"
+  },
+  "VehicleID": 92,
+  "Type": "Draglines",
+  "PurchaseDate": "2022-02-22",
+  "InsuranceID": 97,
+  "Employee_Incharge": 4460
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd8601310a"
+  },
+  "VehicleID": 95,
+  "Type": "Hydraulic mining shovels",
+  "PurchaseDate": "2022-07-20",
+  "InsuranceID": 73,
+  "Employee_Incharge": 4586
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd8601310b"
+  },
+  "VehicleID": 98,
+  "Type": "Wheel loaders",
+  "PurchaseDate": "2021-08-04",
+  "InsuranceID": 55,
+  "Employee_Incharge": 2228
+}]

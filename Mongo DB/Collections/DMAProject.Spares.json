@@ -1,0 +1,550 @@
+[{
+  "_id": {
+    "$oid": "67464e549702a9cd8601308f"
+  },
+  "SpareID": 1004,
+  "SpareName": "Feed cones",
+  "Type": "Fixed",
+  "Stock": 93,
+  "Cost": 8706.14,
+  "InventoryId": "58 rt"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd86013090"
+  },
+  "SpareID": 1175,
+  "SpareName": "Trail plates",
+  "Type": "Moving",
+  "Stock": 1,
+  "Cost": 9112.86,
+  "InventoryId": "72 vh"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd86013091"
+  },
+  "SpareID": 1260,
+  "SpareName": "Rotor tip sets",
+  "Type": "Fixed",
+  "Stock": 58,
+  "Cost": 6050.48,
+  "InventoryId": "37 cm"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd86013092"
+  },
+  "SpareID": 2157,
+  "SpareName": "Taper locks",
+  "Type": "Moving",
+  "Stock": 71,
+  "Cost": 9791.15,
+  "InventoryId": "39 wi"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd86013093"
+  },
+  "SpareID": 2440,
+  "SpareName": "Bowl liners",
+  "Type": "Fixed",
+  "Stock": 51,
+  "Cost": 7060.96,
+  "InventoryId": "22 qi"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd86013094"
+  },
+  "SpareID": 2766,
+  "SpareName": "Jaw plates",
+  "Type": "Dynamic",
+  "Stock": 8,
+  "Cost": 7993.99,
+  "InventoryId": "50 zs"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd86013095"
+  },
+  "SpareID": 2864,
+  "SpareName": "Feed cones",
+  "Type": "Fixed",
+  "Stock": 9,
+  "Cost": 2654.6,
+  "InventoryId": "92 ja"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd86013096"
+  },
+  "SpareID": 3062,
+  "SpareName": "Protection cones",
+  "Type": "Moving",
+  "Stock": 26,
+  "Cost": 9042.94,
+  "InventoryId": "37 mv"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd86013097"
+  },
+  "SpareID": 3066,
+  "SpareName": "Liners",
+  "Type": "Dynamic",
+  "Stock": 10,
+  "Cost": 3012.09,
+  "InventoryId": "58 rt"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd86013098"
+  },
+  "SpareID": 3111,
+  "SpareName": "Jaw plates",
+  "Type": "Fixed",
+  "Stock": 39,
+  "Cost": 1610.39,
+  "InventoryId": "22 qi"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd86013099"
+  },
+  "SpareID": 3343,
+  "SpareName": "Feed cones",
+  "Type": "Moving",
+  "Stock": 91,
+  "Cost": 6449.5,
+  "InventoryId": "90 gi"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd8601309a"
+  },
+  "SpareID": 3560,
+  "SpareName": "Jaw plates",
+  "Type": "Moving",
+  "Stock": 75,
+  "Cost": 4401.74,
+  "InventoryId": "39 wi"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd8601309b"
+  },
+  "SpareID": 3802,
+  "SpareName": "Protection cones",
+  "Type": "Fixed",
+  "Stock": 51,
+  "Cost": 4476.28,
+  "InventoryId": "55 ye"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd8601309c"
+  },
+  "SpareID": 3960,
+  "SpareName": "Eccentric shaft",
+  "Type": "Moving",
+  "Stock": 39,
+  "Cost": 5172.13,
+  "InventoryId": "92 ja"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd8601309d"
+  },
+  "SpareID": 4136,
+  "SpareName": "Taper locks",
+  "Type": "Dynamic",
+  "Stock": 26,
+  "Cost": 643.19,
+  "InventoryId": "97 wu"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd8601309e"
+  },
+  "SpareID": 4147,
+  "SpareName": "Eccentric shaft",
+  "Type": "Fixed",
+  "Stock": 66,
+  "Cost": 2751.02,
+  "InventoryId": "15 io"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd8601309f"
+  },
+  "SpareID": 4209,
+  "SpareName": "Cavity wear plates",
+  "Type": "Fixed",
+  "Stock": 88,
+  "Cost": 7336.83,
+  "InventoryId": "38 wo"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd860130a0"
+  },
+  "SpareID": 4273,
+  "SpareName": "Taper locks",
+  "Type": "Fixed",
+  "Stock": 35,
+  "Cost": 5498.22,
+  "InventoryId": "97 wu"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd860130a1"
+  },
+  "SpareID": 4583,
+  "SpareName": "Mantles",
+  "Type": "Dynamic",
+  "Stock": 94,
+  "Cost": 4149.18,
+  "InventoryId": "55 ye"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd860130a2"
+  },
+  "SpareID": 4675,
+  "SpareName": "Cone mantle",
+  "Type": "Fixed",
+  "Stock": 70,
+  "Cost": 1070.09,
+  "InventoryId": "39 wi"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd860130a3"
+  },
+  "SpareID": 5071,
+  "SpareName": "Feed cones",
+  "Type": "Moving",
+  "Stock": 100,
+  "Cost": 254.27,
+  "InventoryId": "99 oh"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd860130a4"
+  },
+  "SpareID": 5073,
+  "SpareName": "Jaw plates",
+  "Type": "Fixed",
+  "Stock": 48,
+  "Cost": 2122.12,
+  "InventoryId": "18 fq"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd860130a5"
+  },
+  "SpareID": 5362,
+  "SpareName": "Bowl liners",
+  "Type": "Dynamic",
+  "Stock": 77,
+  "Cost": 7165.46,
+  "InventoryId": "18 fq"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd860130a6"
+  },
+  "SpareID": 5454,
+  "SpareName": "Trail plates",
+  "Type": "Fixed",
+  "Stock": 93,
+  "Cost": 1832.04,
+  "InventoryId": "37 cm"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd860130a7"
+  },
+  "SpareID": 5643,
+  "SpareName": "Cavity wear plates",
+  "Type": "Moving",
+  "Stock": 73,
+  "Cost": 1945.17,
+  "InventoryId": "15 io"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd860130a8"
+  },
+  "SpareID": 6094,
+  "SpareName": "Eccentric shaft",
+  "Type": "Fixed",
+  "Stock": 24,
+  "Cost": 2361.81,
+  "InventoryId": "72 vh"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd860130a9"
+  },
+  "SpareID": 6268,
+  "SpareName": "Cone mantle",
+  "Type": "Moving",
+  "Stock": 88,
+  "Cost": 6860.18,
+  "InventoryId": "37 cm"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd860130aa"
+  },
+  "SpareID": 6411,
+  "SpareName": "Trail plates",
+  "Type": "Moving",
+  "Stock": 41,
+  "Cost": 8629.31,
+  "InventoryId": "56 wb"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd860130ab"
+  },
+  "SpareID": 6848,
+  "SpareName": "Bowl liners",
+  "Type": "Moving",
+  "Stock": 62,
+  "Cost": 5387.9,
+  "InventoryId": "22 qi"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd860130ac"
+  },
+  "SpareID": 6989,
+  "SpareName": "Rotor tip sets",
+  "Type": "Moving",
+  "Stock": 63,
+  "Cost": 1383.31,
+  "InventoryId": "90 gi"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd860130ad"
+  },
+  "SpareID": 7158,
+  "SpareName": "Cavity wear plates",
+  "Type": "Fixed",
+  "Stock": 87,
+  "Cost": 690.31,
+  "InventoryId": "99 oh"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd860130ae"
+  },
+  "SpareID": 7202,
+  "SpareName": "Jaw plates",
+  "Type": "Fixed",
+  "Stock": 72,
+  "Cost": 2003.31,
+  "InventoryId": "56 wb"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd860130af"
+  },
+  "SpareID": 7286,
+  "SpareName": "Trail plates",
+  "Type": "Fixed",
+  "Stock": 49,
+  "Cost": 9163.9,
+  "InventoryId": "41 ft"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd860130b0"
+  },
+  "SpareID": 7367,
+  "SpareName": "Feed cones",
+  "Type": "Moving",
+  "Stock": 25,
+  "Cost": 1169.77,
+  "InventoryId": "18 dl"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd860130b1"
+  },
+  "SpareID": 7600,
+  "SpareName": "Protection cones",
+  "Type": "Dynamic",
+  "Stock": 34,
+  "Cost": 105.81,
+  "InventoryId": "41 ft"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd860130b2"
+  },
+  "SpareID": 7758,
+  "SpareName": "Jaw plates",
+  "Type": "Moving",
+  "Stock": 4,
+  "Cost": 472,
+  "InventoryId": "29 eq"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd860130b3"
+  },
+  "SpareID": 7856,
+  "SpareName": "Wedges",
+  "Type": "Moving",
+  "Stock": 37,
+  "Cost": 5034.1,
+  "InventoryId": "41 ft"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd860130b4"
+  },
+  "SpareID": 7907,
+  "SpareName": "Cone mantle",
+  "Type": "Dynamic",
+  "Stock": 39,
+  "Cost": 8062.09,
+  "InventoryId": "15 io"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd860130b5"
+  },
+  "SpareID": 8254,
+  "SpareName": "Taper locks",
+  "Type": "Fixed",
+  "Stock": 10,
+  "Cost": 4915.2,
+  "InventoryId": "50 zs"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd860130b6"
+  },
+  "SpareID": 8803,
+  "SpareName": "Rotor tip sets",
+  "Type": "Fixed",
+  "Stock": 55,
+  "Cost": 5798.25,
+  "InventoryId": "29 eq"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd860130b7"
+  },
+  "SpareID": 8842,
+  "SpareName": "Jaw plates",
+  "Type": "Fixed",
+  "Stock": 83,
+  "Cost": 7800.53,
+  "InventoryId": "18 dl"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd860130b8"
+  },
+  "SpareID": 8861,
+  "SpareName": "Rotor bosses",
+  "Type": "Fixed",
+  "Stock": 2,
+  "Cost": 6277,
+  "InventoryId": "38 wo"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd860130b9"
+  },
+  "SpareID": 9247,
+  "SpareName": "Jaw plates",
+  "Type": "Fixed",
+  "Stock": 84,
+  "Cost": 1002.37,
+  "InventoryId": "18 fq"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd860130ba"
+  },
+  "SpareID": 9443,
+  "SpareName": "Eccentric shaft",
+  "Type": "Dynamic",
+  "Stock": 53,
+  "Cost": 6704.24,
+  "InventoryId": "37 mv"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd860130bb"
+  },
+  "SpareID": 9609,
+  "SpareName": "Bowl liners",
+  "Type": "Fixed",
+  "Stock": 83,
+  "Cost": 146.53,
+  "InventoryId": "95 gn"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd860130bc"
+  },
+  "SpareID": 9687,
+  "SpareName": "Liners",
+  "Type": "Moving",
+  "Stock": 24,
+  "Cost": 757.52,
+  "InventoryId": "37 mv"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd860130bd"
+  },
+  "SpareID": 9834,
+  "SpareName": "Rotor bosses",
+  "Type": "Fixed",
+  "Stock": 11,
+  "Cost": 8235,
+  "InventoryId": "18 dl"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd860130be"
+  },
+  "SpareID": 9860,
+  "SpareName": "Liners",
+  "Type": "Moving",
+  "Stock": 51,
+  "Cost": 6041.84,
+  "InventoryId": "38 wo"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd860130bf"
+  },
+  "SpareID": 9964,
+  "SpareName": "Trail plates",
+  "Type": "Fixed",
+  "Stock": 90,
+  "Cost": 982.53,
+  "InventoryId": "29 eq"
+},
+{
+  "_id": {
+    "$oid": "67464e549702a9cd860130c0"
+  },
+  "SpareID": 9982,
+  "SpareName": "Protection cones",
+  "Type": "Moving",
+  "Stock": 83,
+  "Cost": 3161.1,
+  "InventoryId": "95 gn"
+}]
